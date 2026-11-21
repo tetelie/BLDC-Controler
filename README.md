@@ -1,4 +1,6 @@
 # Controleur-Brushless
 
 
-Collaborateurs: Hippolyte HANDWERK & Mohamed-Yâ-Sîn MAATI
+
+Collaborateurs: Hippolyte HANDWERK \& Mohamed-Yâ-Sîn MAATI, Elie Deletang
+
