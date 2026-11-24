@@ -2,5 +2,5 @@
 
 
 
-Collaborateurs: Hippolyte HANDWERK \& Mohamed-Yâ-Sîn MAATI, Elie Deletang
+Collaborateurs: Hippolyte HANDWERK \& Mohamed-Yâ-Sîn MAATI, Elie Deletang, Laurent POLZIN,
 
